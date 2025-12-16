@@ -1,4 +1,4 @@
-## SQL Fundamentals – DataCamp
+## SQL Associate – DataCamp
 
 **Issuing Platform:** DataCamp  
 **Skills Validated:**  
