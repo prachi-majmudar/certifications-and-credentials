@@ -1,4 +1,4 @@
-## SQL Associate – DataCamp
+## SQL Associate 
 
 **Issuing Platform:** DataCamp  
 **Skills Validated:**  
