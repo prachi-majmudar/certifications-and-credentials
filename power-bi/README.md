@@ -1,4 +1,4 @@
-## Power BI – DataCamp
+## Power BI 
 
 **Issuing Platform:** DataCamp  
 **Skills Validated:**  
